@@ -526,12 +526,8 @@ Potential improvements to the pipeline include:
 
 AWS Data Engineer \| Data Engineering \| Python \| SQL \| AWS
 
-GitHub: [https://github.com/`<YOUR_USERNAME>`{=html}](https://github.com/rkz1012)
+GitHub: [https://github.com/`rkz1012`{=html}](https://github.com/rkz1012)
 
-LinkedIn: [https://www.linkedin.com/in/`<YOUR_USERNAME>`{=html}](https://www.linkedin.com/in/raj-kumar-s-444a25201/)
+LinkedIn: [https://www.linkedin.com/in/`Raj Kumar S`{=html}](https://www.linkedin.com/in/raj-kumar-s-444a25201/)
 
-------------------------------------------------------------------------
 
-# 📄 License
-
-This project is intended for educational and portfolio purposes.
