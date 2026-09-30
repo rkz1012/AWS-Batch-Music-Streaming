@@ -344,34 +344,7 @@ ORDER BY total_streams DESC;
 > Replace the table and column names above with the actual names used in
 > your project.
 
-------------------------------------------------------------------------
 
-# 📸 Pipeline Execution
-
-Add screenshots from the actual project execution below.
-
-## Airflow DAG
-
-![Airflow DAG](screenshots/airflow-dag.png)
-
-## Successful Airflow Run
-
-![Airflow Success](screenshots/airflow-success.png)
-
-## Amazon S3
-
-![Amazon S3](screenshots/s3.png)
-
-## Amazon Redshift Tables
-
-![Redshift Tables](screenshots/redshift-tables.png)
-
-## Analytical Query Results
-
-![Query Results](screenshots/query-results.png)
-
-> Create the `screenshots/` directory and add these images only after
-> taking the corresponding screenshots from your actual implementation.
 
 ------------------------------------------------------------------------
 
@@ -395,7 +368,7 @@ The following tools/services are required:
 ## Clone the Repository
 
 ``` bash
-git clone https://github.com/<YOUR_USERNAME>/aws-batch-music-streaming-airflow-redshift.git
+git clone https://github.com/rkz1012/aws-batch-music-streaming-airflow-redshift.git
 ```
 
 Navigate to the project directory:
@@ -553,9 +526,9 @@ Potential improvements to the pipeline include:
 
 AWS Data Engineer \| Data Engineering \| Python \| SQL \| AWS
 
-GitHub: https://github.com/`<YOUR_USERNAME>`{=html}
+GitHub: [https://github.com/`<YOUR_USERNAME>`{=html}](https://github.com/rkz1012)
 
-LinkedIn: https://www.linkedin.com/in/`<YOUR_USERNAME>`{=html}
+LinkedIn: [https://www.linkedin.com/in/`<YOUR_USERNAME>`{=html}](https://www.linkedin.com/in/raj-kumar-s-444a25201/)
 
 ------------------------------------------------------------------------
 
